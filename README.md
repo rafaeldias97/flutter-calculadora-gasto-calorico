@@ -1,6 +1,6 @@
-# myfirstapp
+# Calculadora de gasto calorico
 
-A new Flutter project.
+![](https://i.ibb.co/Nr2h5M4/Captura-de-Tela-2022-03-10-a-s-18-51-16.png)
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Run
+```bash
+open -a Simulator
+flutter run --hot
+```
