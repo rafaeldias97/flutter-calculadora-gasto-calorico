@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myfirstapp">
+    package="com.faeldiaz.calcgastocalorico">
 
     <uses-permission android:name="android.permission.INTERNET"/> <!-- Add this -->
 
